@@ -4,7 +4,7 @@ FiveM apps
 
 for the 
 
-#5kur4-app.js
+#5kur4-app
 
 just put it in your resources 
 
